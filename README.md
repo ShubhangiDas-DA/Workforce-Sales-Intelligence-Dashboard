@@ -1,5 +1,5 @@
 # Amazon Sales Performance & Intelligence Dashboard
-![Amazon Sales Performance Excel Dashboard](Snapshot of Dashboard.png)
+https://github.com/ShubhangiDas-DA/Workforce-Sales-Intelligence-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
 
 ## 📌 Project Overview
 Stepped into the role of a Business Analyst to transform a raw dump of 100 retail sales transactions across multiple regions, products, and customer profiles into a dynamic, automated business intelligence report. 
