@@ -1,4 +1,5 @@
 # Amazon Sales Performance & Intelligence Dashboard
+![Amazon Sales Dashboard](Snapshot of Dashboard.png)
 
 ## 📌 Project Overview
 Stepped into the role of a Business Analyst to transform a raw dump of 100 retail sales transactions across multiple regions, products, and customer profiles into a dynamic, automated business intelligence report. 
