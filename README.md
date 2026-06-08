@@ -1,5 +1,5 @@
 # Amazon Sales Performance & Intelligence Dashboard
-<img width="1553" height="821" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/d41a03bc-807b-409f-9bf8-850707cd2758" />
+
 
 
 ## 📌 Project Overview
